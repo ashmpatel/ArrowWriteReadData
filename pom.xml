@@ -52,6 +52,14 @@
             <version>10.0.0</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.apache.arrow/arrow-dataset -->
+        <dependency>
+            <groupId>org.apache.arrow</groupId>
+            <artifactId>arrow-dataset</artifactId>
+            <version>10.0.0</version>
+        </dependency>
+
+
         <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
